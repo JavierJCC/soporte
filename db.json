@@ -1,9 +1,11 @@
 {
-   "convenios": {
-      "idConvenio": "00001",
-      "numContrato": "0000150750",
-      "descripcion": "Ajuste de precios",
-      "fechaConvenio": "",
-      "unidadNegocio": "DRM"
-   }
+    "datos": [
+        {
+        "idConvenio": "00001",
+        "numContrato": "0000150750",
+        "descripcion": "Ajuste de precios",
+        "fechaConvenio": "20/01/2023",
+        "unidadNegocio": "DRM"
+        }
+    ]
 }
