@@ -6,7 +6,7 @@
             "descripcion": "Ajuste de precios",
             "fechaConvenio": "20/01/2023",
             "unidadNegocio": "DRM"
-            }
-
+            },
+        "saludo":"Hola"
     }
 }
